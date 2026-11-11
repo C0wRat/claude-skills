@@ -6,7 +6,7 @@ Personal [Claude Code](https://claude.com/claude-code) skills.
 
 | Skill | Purpose |
 | --- | --- |
-| [conventional-git](skills/conventional-git/SKILL.md) | Enforces Conventional Commits for messages and `type/slug` names for branches. |
+| [conventional-git](skills/conventional-git/SKILL.md) | Enforces Conventional Commits for messages and `type/slug` names for branches, with no Claude/AI attribution. |
 
 ## Install
 
